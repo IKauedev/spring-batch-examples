@@ -12,10 +12,7 @@ import org.mortbay.jetty.nio.SelectChannelConnector;
 import org.mortbay.jetty.webapp.WebAppContext;
 import org.springframework.web.client.RestTemplate;
 
-/**
- * @author acogoluegnes
- *
- */
+
 public class ExecutionMetadataTest {
 	
 	private static final String BASE_URL = "http://localhost:8081/springbatchadmin/";

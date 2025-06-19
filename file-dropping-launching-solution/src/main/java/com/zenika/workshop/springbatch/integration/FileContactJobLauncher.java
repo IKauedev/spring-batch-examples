@@ -12,10 +12,7 @@ import org.springframework.batch.core.JobExecution;
 import org.springframework.batch.core.JobParametersBuilder;
 import org.springframework.batch.core.launch.JobLauncher;
 
-/**
- * @author acogoluegnes
- *
- */
+
 public class FileContactJobLauncher {
 	
 	private static final Logger LOG = LoggerFactory.getLogger(FileContactJobLauncher.class);

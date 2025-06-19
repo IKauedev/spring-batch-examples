@@ -5,10 +5,7 @@ package com.zenika.workshop.springbatch;
 
 import org.springframework.batch.item.ItemProcessor;
 
-/**
- * @author acogoluegnes
- *
- */
+
 public class ContactItemProcessor implements
 		ItemProcessor<Contact, RegistrationConfirmation> {
 	

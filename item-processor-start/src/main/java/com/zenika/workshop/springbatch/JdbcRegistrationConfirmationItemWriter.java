@@ -10,10 +10,7 @@ import javax.sql.DataSource;
 import org.springframework.batch.item.ItemWriter;
 import org.springframework.jdbc.core.JdbcTemplate;
 
-/**
- * @author acogoluegnes
- *
- */
+
 public class JdbcRegistrationConfirmationItemWriter implements ItemWriter<RegistrationConfirmation> {
 	
 	private JdbcTemplate jdbcTemplate;

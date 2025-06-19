@@ -12,10 +12,7 @@ import org.springframework.batch.item.NonTransientResourceException;
 import org.springframework.batch.item.ParseException;
 import org.springframework.batch.item.UnexpectedInputException;
 
-/**
- * @author acogoluegnes
- *
- */
+
 public class StringItemReader implements ItemReader<String> {
 	
 	private List<String> list;

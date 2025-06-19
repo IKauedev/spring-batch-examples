@@ -18,10 +18,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import static org.junit.Assert.assertEquals;
 
-/**
- * @author acogoluegnes
- *
- */
+
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration("/logging-skipped-items-job.xml")
 public class LoggingSkippedItemsTest {

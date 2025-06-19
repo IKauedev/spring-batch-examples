@@ -4,10 +4,7 @@
 package com.zenika.workshop.springbatch;
 
 
-/**
- * @author acogoluegnes
- *
- */
+
 public class Product {
 
 	private final Long id;

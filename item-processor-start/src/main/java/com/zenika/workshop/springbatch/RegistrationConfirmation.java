@@ -3,10 +3,7 @@
  */
 package com.zenika.workshop.springbatch;
 
-/**
- * @author acogoluegnes
- *
- */
+
 public class RegistrationConfirmation {
 
 	private String number;

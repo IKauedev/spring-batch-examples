@@ -9,10 +9,7 @@ import org.springframework.batch.item.ItemProcessor;
 import org.springframework.web.client.RestTemplate;
 import org.w3c.dom.NodeList;
 
-/**
- * @author acogoluegnes
- *
- */
+
 public class SsnWebServiceItemProcessor implements
 		ItemProcessor<Contact, Contact> {
 	

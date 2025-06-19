@@ -18,10 +18,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-/**
- * @author acogoluegnes
- *
- */
+
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration("/atomic-processing-job.xml")
 public class AtomicProcessingJobTest {

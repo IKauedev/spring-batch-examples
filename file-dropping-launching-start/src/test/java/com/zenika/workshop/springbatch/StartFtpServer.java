@@ -3,10 +3,7 @@
  */
 package com.zenika.workshop.springbatch;
 
-/**
- * @author acogoluegnes
- *
- */
+
 public class StartFtpServer {
 
 	public static void main(String [] args) throws Exception {

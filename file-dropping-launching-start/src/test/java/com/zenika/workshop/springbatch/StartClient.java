@@ -9,10 +9,7 @@ import org.apache.commons.io.FileUtils;
 import org.h2.tools.Server;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-/**
- * @author acogoluegnes
- *
- */
+
 public class StartClient {
 	
 	public static final String CLIENT_INPUT_DIRECTORY = "./input";

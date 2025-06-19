@@ -10,10 +10,7 @@ import org.mortbay.jetty.nio.SelectChannelConnector;
 import org.mortbay.jetty.webapp.WebAppContext;
 
 
-/**
- * @author acogoluegnes
- *
- */
+
 public class LaunchExecutionMetadata {
 
 	public static void main(String [] args) throws Exception {

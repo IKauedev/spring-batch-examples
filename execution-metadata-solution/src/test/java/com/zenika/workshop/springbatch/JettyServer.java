@@ -9,10 +9,7 @@ import org.mortbay.jetty.Server;
 import org.mortbay.jetty.nio.SelectChannelConnector;
 import org.mortbay.jetty.webapp.WebAppContext;
 
-/**
- * @author acogoluegnes
- *
- */
+
 public class JettyServer extends ExternalResource {
 	
 	private Server server;

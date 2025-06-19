@@ -12,10 +12,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-/**
- * @author acogoluegnes
- *
- */
+
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration("/hello-world-job.xml")
 // TODO 04 remove the @Ignore annotation on the test

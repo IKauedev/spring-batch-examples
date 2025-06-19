@@ -5,10 +5,7 @@ package com.zenika.workshop.springbatch;
 
 import java.util.Date;
 
-/**
- * @author acogoluegnes
- *
- */
+
 public class Contact {
 
 	private Long id;

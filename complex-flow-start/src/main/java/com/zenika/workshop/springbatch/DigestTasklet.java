@@ -12,10 +12,7 @@ import org.springframework.batch.core.step.tasklet.Tasklet;
 import org.springframework.batch.repeat.RepeatStatus;
 import org.springframework.util.DigestUtils;
 
-/**
- * @author acogoluegnes
- *
- */
+
 public class DigestTasklet implements Tasklet {
 	
 	private String importFile;

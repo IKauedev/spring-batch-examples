@@ -16,10 +16,7 @@ import org.springframework.batch.item.ItemWriter;
 import org.springframework.jdbc.core.BatchPreparedStatementSetter;
 import org.springframework.jdbc.core.JdbcTemplate;
 
-/**
- * @author acogoluegnes
- *
- */
+
 public class JdbcContactItemWriter implements ItemWriter<Contact> {
 	
 	private static final Logger LOG = LoggerFactory.getLogger(JdbcContactItemWriter.class);

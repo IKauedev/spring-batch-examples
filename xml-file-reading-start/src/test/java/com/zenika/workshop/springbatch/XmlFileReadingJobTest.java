@@ -19,10 +19,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import static org.junit.Assert.assertEquals;
 
-/**
- * @author acogoluegnes
- *
- */
+
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration("/xml-file-reading-job.xml")
 //TODO 03 remove the @Ignore annotation on the test

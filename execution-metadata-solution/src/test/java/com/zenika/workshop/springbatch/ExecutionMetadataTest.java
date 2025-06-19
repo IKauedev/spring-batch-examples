@@ -10,10 +10,7 @@ import org.junit.Test;
 import org.junit.rules.RuleChain;
 import org.springframework.web.client.RestTemplate;
 
-/**
- * @author acogoluegnes
- *
- */
+
 public class ExecutionMetadataTest {
 	
 	private static final int PORT = 8081;

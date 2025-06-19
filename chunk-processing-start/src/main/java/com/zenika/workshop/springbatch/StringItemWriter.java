@@ -9,10 +9,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.batch.item.ItemWriter;
 
-/**
- * @author acogoluegnes
- *
- */
+
 public class StringItemWriter implements ItemWriter<String> {
 	
 	private static final Logger LOGGER = LoggerFactory.getLogger(StringItemWriter.class);

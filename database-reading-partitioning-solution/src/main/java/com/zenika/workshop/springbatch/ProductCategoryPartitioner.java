@@ -14,10 +14,7 @@ import org.springframework.batch.item.ExecutionContext;
 import org.springframework.jdbc.core.JdbcOperations;
 import org.springframework.jdbc.core.JdbcTemplate;
 
-/**
- * @author acogoluegnes
- *
- */
+
 public class ProductCategoryPartitioner implements Partitioner {
 	
 	private final JdbcOperations jdbcTemplate;

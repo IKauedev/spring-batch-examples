@@ -13,10 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 
 import org.mortbay.jetty.handler.AbstractHandler;
 
-/**
- * @author acogoluegnes
- *
- */
+
 public class WebServiceHandler extends AbstractHandler {
 	
 	private Map<String,String> ssnDb = new HashMap<String, String>() {{

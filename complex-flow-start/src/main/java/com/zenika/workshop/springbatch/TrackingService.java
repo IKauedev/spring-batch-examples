@@ -7,10 +7,7 @@ import javax.sql.DataSource;
 
 import org.springframework.jdbc.core.JdbcTemplate;
 
-/**
- * @author acogoluegnes
- *
- */
+
 public class TrackingService {
 	
 	private JdbcTemplate jdbcTemplate;

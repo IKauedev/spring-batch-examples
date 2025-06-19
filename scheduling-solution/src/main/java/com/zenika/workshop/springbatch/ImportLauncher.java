@@ -11,10 +11,7 @@ import org.springframework.batch.core.JobParametersBuilder;
 import org.springframework.batch.core.launch.JobLauncher;
 import org.springframework.beans.factory.annotation.Autowired;
 
-/**
- * @author acogoluegnes
- *
- */
+
 public class ImportLauncher {
 	
 	private static final Logger LOG = LoggerFactory.getLogger(ImportLauncher.class);

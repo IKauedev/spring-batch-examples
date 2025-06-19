@@ -5,10 +5,7 @@ package com.zenika.workshop.springbatch;
 
 import org.junit.rules.ExternalResource;
 
-/**
- * @author acogoluegnes
- *
- */
+
 public class H2Server extends ExternalResource {
 	
 	private org.h2.tools.Server h2;

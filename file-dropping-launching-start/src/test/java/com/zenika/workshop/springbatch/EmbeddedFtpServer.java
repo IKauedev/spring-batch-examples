@@ -14,10 +14,7 @@ import org.apache.ftpserver.usermanager.ClearTextPasswordEncryptor;
 import org.apache.ftpserver.usermanager.PropertiesUserManagerFactory;
 import org.apache.ftpserver.usermanager.impl.BaseUser;
 
-/**
- * @author acogoluegnes
- *
- */
+
 public class EmbeddedFtpServer {
 	
 	private static FtpServer ftpServer;

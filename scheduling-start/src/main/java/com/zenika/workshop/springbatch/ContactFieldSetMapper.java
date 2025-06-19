@@ -7,10 +7,7 @@ import org.springframework.batch.item.file.mapping.FieldSetMapper;
 import org.springframework.batch.item.file.transform.FieldSet;
 import org.springframework.validation.BindException;
 
-/**
- * @author acogoluegnes
- * 
- */
+
 public class ContactFieldSetMapper implements FieldSetMapper<Contact> {
 
 	/*

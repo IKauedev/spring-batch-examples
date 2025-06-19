@@ -12,10 +12,7 @@ import org.mortbay.jetty.webapp.WebAppContext;
 import java.io.File;
 
 
-/**
- * @author acogoluegnes
- *
- */
+
 public class LaunchExecutionMetadata {
 
 	public static void main(String [] args) throws Exception {

@@ -13,7 +13,7 @@ The slides in are in the presentation directory (spring-batch-workshop.pdf).
 * dynamic job parameters: passing parameters to job artefacts (e.g. input file to an item reader)
 * JDBC paging: reading large result sets from a database using paging
 * execution metadata: seeing how Spring Batch stores execution metadata to enable restart and ease monitoring
-* scheduling: using Spring scheduling support to execute a job periodically 
+* scheduling: using Spring scheduling support to execute a job periodically
 * item processor: embedding business logic in an ItemProcessor
 * logging skipped items: using a skip listener to log skipped items
 * file reading partitioning: multithreading reading and processing of files

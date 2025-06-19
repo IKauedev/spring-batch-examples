@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="item-enrichment-solution" />
+        <module name="dynamic-job-parameters-solution" />
+        <module name="file-reading-partitioning-solution" />
+        <module name="complex-flow-start" />
+        <module name="chunk-processing-solution" />
+        <module name="hello-world-solution" />
+        <module name="database-reading-partitioning-solution" />
+        <module name="item-enrichment-start" />
+        <module name="logging-skipped-items-solution" />
+        <module name="skip-start" />
+        <module name="database-reading-partitioning-start" />
+        <module name="chunk-processing-start" />
+        <module name="jdbc-paging-start" />
+        <module name="execution-metadata-solution" />
+        <module name="file-dropping-launching-solution" />
+        <module name="jdbc-paging-solution" />
+        <module name="file-reading-partitioning-start" />
+        <module name="atomic-processing-solution" />
+        <module name="logging-skipped-items-start" />
+        <module name="scheduling-solution" />
+        <module name="xml-file-reading-solution" />
+        <module name="hello-world-start" />
+        <module name="scheduling-start" />
+        <module name="execution-metadata-start" />
+        <module name="atomic-processing-start" />
+        <module name="skip-solution" />
+        <module name="dynamic-job-parameters-start" />
+        <module name="flat-file-reading-start" />
+        <module name="xml-file-reading-start" />
+        <module name="item-processor-solution" />
+        <module name="complex-flow-solution" />
+        <module name="item-processor-start" />
+        <module name="file-dropping-launching-start" />
+        <module name="flat-file-reading-solution" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
